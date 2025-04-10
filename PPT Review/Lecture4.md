@@ -27,13 +27,17 @@
 
 > 视觉上相似的东西是有关的（颜色往往强于形状）。
 
-<img src="./images/L4_1_1.png" style="zoom:25%;margin: auto;display: block;" />
+<p align="center">
+  <img src="./images/L4_1_1.png" width="180">
+</p>
 
 - **Proximity**: Elements that are ***<u>near each other</u>*** are perceived as related.
 
 > 位置相近的东西是有关的。
 
-<img src="./images/L4_1_2.png" style="zoom:25%;margin: auto;display: block;" />
+<p align="center">
+  <img src="./images/L4_1_2.png" width="200">
+</p>
 
 - **Closure**: People will ***<u>fill in blanks</u>*** to perceive a complete object whenever an external stimulus partially matches that object. 
 
@@ -43,37 +47,49 @@
 > 
 > *用一只手去把握无限，用一刹那来留住永恒。"* ***—William Blake***
 
-<img src="./images/L4_1_3.png" style="zoom:25%;margin: auto;display: block;" />
+<p align="center">
+  <img src="./images/L4_1_3.png" width="150">
+</p>
 
 - **Connectedness**: Elements ***<u>connected to each other</u>*** are perceived as part of the same unit.
 
 > 连接着的东西被视为一个整体（连接往往强于位置和相似）。
 
-<img src="./images/L4_1_4.png" style="zoom:25%;margin: auto;display: block;" />
+<p align="center">
+  <img src="./images/L4_1_4.png" width="300">
+</p>
 
 - **Common Fate**: Objects that are ***<u>synchronized in movement</u>*** are likely to be grouped as one.
 
 > 一起运动的东西被视为一个整体。
 
-<img src="./images/L4_1_5.png" style="zoom:25%;margin: auto;display: block;" />
+<p align="center">
+  <img src="./images/L4_1_5.png" width="150">
+</p>
 
 - **Continuation**: Eyes tend to follow ***<u>visual paths and sequences in order</u>*** to identify relationships between designed elements.
 
 > 路径和序列代表关系。
 
-<img src="./images/L4_1_6.png" style="zoom:25%;margin: auto;display: block;" />
+<p align="center">
+  <img src="./images/L4_1_6.png" width="200">
+</p>
 
 - **Figure/Ground**: People instinctively see objects as figure and ground, where "figure" represents an obejct of focus in the ***<u>foreground</u>*** while "ground" represents the ***<u>background</u>***.
 
 > 区分前景和背景来制造交互欲。
 
-<img src="./images/L4_1_7.png" style="zoom:25%;margin: auto;display: block;" />
+<p align="center">
+  <img src="./images/L4_1_7.png" width="150">
+</p>
 
 - **Common Region**: Items ***<u>within a boundary</u>*** are perceived as a group and assumed to share some common characteristic or functionality. 
  
 > 被包裹着的东西被视为一个整体。
 
-<img src="./images/L4_1_8.png" style="zoom:25%;margin: auto;display: block;" />
+<p align="center">
+  <img src="./images/L4_1_8.png" width="200">
+</p>
 
 
 ## **2.Knowledge in the World(Externalization of Information)**
@@ -100,7 +116,9 @@
 
 > 物体的属性和交互对象的能力间的关系。
 
-<img src="./images/L4_4.png" style="zoom:25%;margin: auto;display: block;" />
+<p align="center">
+  <img src="./images/L4_4.png" width="300">
+</p>
 
 ## **5.Familiarity**
 
@@ -124,7 +142,9 @@
 >
 > *"天将降大任于斯人也，必先灭其微信，封其微博，收其电脑，夺其手机，摔其iPad，断其WIFI，剪其网线，砸其电视......,使其百无聊赖"*
 
-<img src="./images/L4_7.png" style="zoom:25%;margin: auto;display: block;" />
+<p align="center">
+  <img src="./images/L4_7.png" width="400">
+</p>
 
 ## **8.80/20 (Pareto) Rule**
 
@@ -132,7 +152,9 @@
 
 > 最小成本实现最大效益。
 
-<img src="./images/L4_8.png" style="zoom:25%;margin: auto;display: block;" />
+<p align="center">
+  <img src="./images/L4_8.png" width="300">
+</p>
 
 ## **9.Flexibility-usability Tradeoff**
 
@@ -140,9 +162,13 @@
 
 > 灵活性和可用性，二者不可得兼。
 
-<img src="./images/L4_9_1.png" style="zoom:15%;margin: auto;display: block;" />
+<p align="center">
+  <img src="./images/L4_9_1.png" width="300">
+</p>
 
-<img src="./images/L4_9_2.png" style="zoom:15%;margin: auto;display: block;" />
+<p align="center">
+  <img src="./images/L4_9_2.png" width="300">
+</p>
 
 ## **10.Chunking**
 
@@ -156,7 +182,9 @@
 
 > 用户操作与系统反馈间的关系。这种关系应当明确。
 
-<img src="./images/L4_11.png" style="zoom:25%;margin: auto;display: block;" />
+<p align="center">
+  <img src="./images/L4_11.png" width="300">
+</p>
 
 ## **12.Fitts’ Law**
 
@@ -211,7 +239,9 @@ Garbage in, garbage out (GIGO)***
 
 > 糟糕的输入必然导致糟糕的输出。增加容错，减少错误机会来增强用户体验。
 
-<img src="./images/L4_17.png" style="zoom:25%;margin: auto;display: block;" />
+<p align="center">
+  <img src="./images/L4_17.png" width="300">
+</p>
 
 ## **18.Control**
 
@@ -219,7 +249,9 @@ Garbage in, garbage out (GIGO)***
 
 > 是用户在使用系统，而不是系统在主导用户。用户对系统有足够的控制。
 
-<img src="./images/L4_18.png" style="zoom:25%;margin: auto;display: block;" />
+<p align="center">
+  <img src="./images/L4_18.png" width="400">
+</p>
 
 ## **19.Feedback**
 
@@ -227,7 +259,9 @@ Garbage in, garbage out (GIGO)***
 
 > 每一次交互都有明确的回应。
 
-<img src="./images/L4_19.png" style="zoom:20%;margin: auto;display: block;" />
+<p align="center">
+  <img src="./images/L4_19.png" width="300">
+</p>
 
 ## **20.Multitasking**
 
