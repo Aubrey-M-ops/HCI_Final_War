@@ -117,7 +117,7 @@
 > 物体的属性和交互对象的能力间的关系。
 
 <p align="center">
-  <img src="./images/L4_4.png" width="300">
+  <img src="./images/L4_4.png" width="400">
 </p>
 
 ## **5.Familiarity**
@@ -143,7 +143,7 @@
 > *"天将降大任于斯人也，必先灭其微信，封其微博，收其电脑，夺其手机，摔其iPad，断其WIFI，剪其网线，砸其电视......,使其百无聊赖"*
 
 <p align="center">
-  <img src="./images/L4_7.png" width="400">
+  <img src="./images/L4_7.png" width="550">
 </p>
 
 ## **8.80/20 (Pareto) Rule**
@@ -153,7 +153,7 @@
 > 最小成本实现最大效益。
 
 <p align="center">
-  <img src="./images/L4_8.png" width="300">
+  <img src="./images/L4_8.png" width="500">
 </p>
 
 ## **9.Flexibility-usability Tradeoff**
@@ -163,11 +163,11 @@
 > 灵活性和可用性，二者不可得兼。
 
 <p align="center">
-  <img src="./images/L4_9_1.png" width="300">
+  <img src="./images/L4_9_1.png" width="350">
 </p>
 
 <p align="center">
-  <img src="./images/L4_9_2.png" width="300">
+  <img src="./images/L4_9_2.png" width="350">
 </p>
 
 ## **10.Chunking**
@@ -183,7 +183,7 @@
 > 用户操作与系统反馈间的关系。这种关系应当明确。
 
 <p align="center">
-  <img src="./images/L4_11.png" width="300">
+  <img src="./images/L4_11.png" width="450">
 </p>
 
 ## **12.Fitts’ Law**
@@ -240,7 +240,7 @@ Garbage in, garbage out (GIGO)***
 > 糟糕的输入必然导致糟糕的输出。增加容错，减少错误机会来增强用户体验。
 
 <p align="center">
-  <img src="./images/L4_17.png" width="300">
+  <img src="./images/L4_17.png" width="500">
 </p>
 
 ## **18.Control**
@@ -250,7 +250,7 @@ Garbage in, garbage out (GIGO)***
 > 是用户在使用系统，而不是系统在主导用户。用户对系统有足够的控制。
 
 <p align="center">
-  <img src="./images/L4_18.png" width="400">
+  <img src="./images/L4_18.png" width="600">
 </p>
 
 ## **19.Feedback**
@@ -260,7 +260,7 @@ Garbage in, garbage out (GIGO)***
 > 每一次交互都有明确的回应。
 
 <p align="center">
-  <img src="./images/L4_19.png" width="300">
+  <img src="./images/L4_19.png" width="500">
 </p>
 
 ## **20.Multitasking**
