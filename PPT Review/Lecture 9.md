@@ -203,9 +203,152 @@ English explanation：General usability guidlines used to evaluate and improve u
   - probable quality of redesign (假设Redesign会怎样)
 - Fix: based on guidelines 
 
-## 5. Empirical Evaluation 
+## 5. Empirical Evaluation  （经验）
 
+> 在industry和academia都有使用！
 
+Somebody  doing something in some situation
+
+- Who: humans(individuals/groups)
+- What:actions / behaviour/ tasks
+- When & where: system/ location
+
+### 5.1 Criteria for good empirical research
+
+- **Generalizability**
+
+  Result对庞大用户群体的可拓展性
+
+- **Precision**
+
+  - Measurement behaviour的准确性
+  - 对extraneous情况的考虑
+
+- **Realism**
+
+  - The situation you gathered 有多贴近现实
+
+### 5.2 *Method - Simple observation
+
+Evaluator observes user performing tasks
+
+- Pro: Easy to do
+
+- Con: Does not give insight into user's decision process. 不关注用户做决定的过程
+
+  <img src="/Users/limohan/Library/Application Support/typora-user-images/image-20250410160424701.png" alt="image-20250410160424701" style="zoom:50%;" />
+
+### 5.3 *Method - Think-aloud
+
+> 📌📌📌📌📌The most used evaluation Method📌📌📌📌📌
+
+- 概念： 参与者在think / do的时候需要talk aloud
+
+- ✨ This gives insight into what the user is thinking
+
+- Problems
+
+  - Awkward
+
+  - Thinking aloud may alter the way people perform tasks 影响做任务
+
+  - Hard to talk when concentrating a problem 专注的时候说不了话
+
+- 所以也不是所有情况都适用
+
+### 5.4 *Method - Think-after
+
+> Variation of think-aloud
+
+-  Process
+  - Record user session (video)
+  - Play recording  back to users
+  - User watch recording and think aloud
+- ✨👉 User行动的时候录视频，看着视频回放think aloud
+  - Overcome think-aloud的无法同时做两件事的问题
+
+### 5.5 *Method - Co-operate Evaluation
+
+Evaluiator and user talk together, 互相提问
+
+- Evaluator提问比如“why did you do that” 
+- User提问比如遇到problem需要clarification
+
+好处：
+
+- **Less constrained** than think-aloud
+- User can **criticize** the system 
+- Evaluator can **clarify confusion**
+
+⚠️ Evaluator可能会过度影响user (overly influence the user)
+
+### 5.6 *Method - Co-discovery learning
+
+Two people work together on a task
+
+> Between two `users`!
+
+It removes awkwardness
 
 ## 6. Examples and case studies
 
+### 6.1 Case Study 1
+
+**<u>Task</u>**: Develop concept maps
+
+**Goal**: How does the tool support the development of concept maps
+
+- Explore shapes
+- Make sense of relationships among them
+- Determine how they are derived from each other 
+
+<img src="/Users/limohan/Library/Application Support/typora-user-images/image-20250410221711505.png" alt="image-20250410221711505" style="zoom:50%;" />
+
+**3 ways to interact** (interfaces )
+
+1. Stacked
+2. Distributed
+3. Coupled
+
+**Study Design**
+
+1. Mixed methods are combined 
+2. Multiple types of data-collection instruments
+3. Multi-Method was used to cross validate(交叉验证)
+4. Compare 3 groups, each group interacting with one of 3 interfaces
+
+**Participants**
+
+36 undergraduate computer science and engineering students
+
+None of the subjects previously used the tool 没人之前用过
+
+**Procedure**
+
+<img src="/Users/limohan/Library/Application Support/typora-user-images/image-20250410224453456.png" alt="image-20250410224453456" style="zoom:50%;" />
+
+**Data Sources**
+
+1. Achievement Results
+2. Video Transcripts
+3. Interview Transcripts
+4. Direct Observation
+
+**Results**
+
+<img src="/Users/limohan/Library/Application Support/typora-user-images/image-20250410224658997.png" alt="image-20250410224658997" style="zoom:50%;" />
+
+**Conclusion**
+
+1. Transitional processes 不易理解
+2. Computer tools可以separate it
+3. By placing distributed and stacked interfaces side by side, users可以control each dimension
+4. 也为其他的study提供implications
+
+### Case Study 2
+
+和Case study1类似，在ppt里64页
+
+也不在ppt最后的summary里，
+
+应该只是老师举了两个他做过的study 特别具体那种，不是重点。
